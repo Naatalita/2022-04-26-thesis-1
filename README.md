@@ -1,3 +1,3 @@
 
 # My thesis
-this is my cool thesis bla bla bla
+this is my thesis about library sciences
