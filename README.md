@@ -1,5 +1,6 @@
 
-# My thesis
+#Mein erstes Git Repositorium
+## My thesis
 this is my thesis about library sciences
 
 - Autorin: **Lisa Wolf**
